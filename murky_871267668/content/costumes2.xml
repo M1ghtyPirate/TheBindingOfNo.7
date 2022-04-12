@@ -1,0 +1,10 @@
+<costumes anm2root="gfx/characters/">
+	<costume anm2path="character_murkyhead.anm2" priority="99" type="none" />
+	<costume anm2path="character_murkybody.anm2" priority="99" type="none" />
+	<costume anm2path="costume_radsores_25-50.anm2" priority="99" type="none" />
+	<costume anm2path="costume_radsores_50-75.anm2" priority="99" type="none" />
+	<costume anm2path="costume_radsores_75-100.anm2" priority="99" type="none" />
+	<costume anm2path="costume_radsores_100.anm2" priority="99" type="none" />
+	<costume anm2path="costume_pipbuck.anm2" priority="99" type="none" />
+	<costume anm2path="costume_pipbucknb.anm2" priority="0" type="none" />
+</costumes>

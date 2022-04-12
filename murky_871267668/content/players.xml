@@ -1,0 +1,3 @@
+<players bigportraitroot="gfx/ui/stage/" nameimageroot="gfx/ui/boss/" portraitroot="gfx/ui/boss/" root="gfx/characters/costumes/">
+	<player bigportrait="PlayerPortraitBig_murky.png" bombs="1" hp="6" name="Murky" nameimage="PlayerName_murky.png" portrait="PlayerPortrait_murky.png" skin="character_murky.png" skinColor="4" />
+</players>

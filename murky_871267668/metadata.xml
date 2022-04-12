@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>The Binding of No. 7</name>
+    <directory>murky</directory>
+    <id>871267668</id>
+    <description>Adds three new collectibles, a new pickup, a new nightmare animation and a new playable character Murky.
+
+Murky has the same starting stats, as Isaac and starts with the Tainted Lung item.
+
+[b][u]New collectibles:[/u][/b]
+
+[b]Tainted Lung[/b] adds a Rads stat, which slowly increases over time. As it increases it gives penalty to the character's movement speed and adds a chance to cough, hacking up blood and shooting multiple short ranged projectiles, instead of a single tear. When the Rads stat reaches it's maximum the character starts taking damage over time, untill it is decreased.
+Rads can be decreased by picking up Radaway pickups that have a chance to spawn in cleared rooms and can also spawn from opened chests and grab bags.
+
+[b]Pipbuck[/b] adds a meter that shows how high is the Rads stat and adds a Compass collectible on pickup.
+
+[b]Leather Canteen[/b] is an active item, that can store up to eight doses of Radaway, which can be used on activation.
+
+The new items only spawn, when the playable character is Murky, but the new nightmare animation has a chance to happen for any character, since i haven't figured out a way to make it character specific.
+
+Hopefully it's not too buggy.
+
+This mod is based on an MLP / Fallout crossover fanfiction Murky Number Seven by Fuzzy.</description>
+    <version>1.5</version>
+    <visibility>Public</visibility>
+    <tag id="Lua"/>
+    <tag id="Items"/>
+    <tag id="Active Items"/>
+    <tag id="Pickups"/>
+    <tag id="Player Characters"/>
+    <tag id="Graphics"/>
+</metadata>

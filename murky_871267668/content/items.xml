@@ -1,0 +1,5 @@
+<items gfxroot="gfx/items/" version="1">
+	<passive cache="speed" name="Tainted Lung" description="*cough*" gfx="collectibles_taintedlung.png" />
+	<passive cache="" name="Pipbuck" description="*beep* *boop*" gfx="collectibles_pipbuck.png" />
+	<active cache="" name="Leather Canteen" description="*gulp*" gfx="collectibles_leathercanteen.png" maxcharges="0" />
+</items>

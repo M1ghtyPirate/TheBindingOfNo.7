@@ -1,0 +1,16 @@
+<entities anm2root="gfx/" version="5">
+	<entity anm2path="radaway.anm2" baseHP="0" boss="0" champion="0" collisionDamage="0" collisionMass="3" collisionRadius="12" friction="1" id="5" name="Radaway" numGridCollisionPoints="24" shadowSize="17" stageHP="0" variant="36756" subtype="1" >
+        <gibs amount="0" blood="0" bone="0" eye="0" gut="0" large="0" />
+	    <preload-snd id="185" />
+    </entity>
+    <entity anm2path="radaway_half.anm2" baseHP="0" boss="0" champion="0" collisionDamage="0" collisionMass="3" collisionRadius="12" friction="1" id="5" name="Radaway (half)" numGridCollisionPoints="24" shadowSize="17" stageHP="0" variant="36756" subtype="2" >
+        <gibs amount="0" blood="0" bone="0" eye="0" gut="0" large="0" />
+	    <preload-snd id="185" />
+    </entity>
+    <entity anm2path="pipbuck_skeleton.anm2" baseHP="5" boss="0" champion="0" collisionDamage="0" collisionMass="100" collisionRadius="1" friction="1" id="17" name="Pipbuck Skeleton" numGridCollisionPoints="0" shadowSize="34" stageHP="0" variant="36756" shutdoors="false">
+        <gibs amount="4" blood="0" bone="1" eye="0" gut="0" large="0" />
+    </entity>
+    <entity anm2path="brimstoneblitz.anm2" baseHP="0" boss="0" champion="0" collisionDamage="0" collisionMass="1000" collisionRadius="1" friction="0" id="5" name="Brimstone Blitz" numGridCollisionPoints="0" shadowSize="35" stageHP="0" variant="36757" shutdoors="false">
+        <gibs amount="4" blood="0" bone="1" eye="0" gut="0" large="0" />
+    </entity>
+</entities>
