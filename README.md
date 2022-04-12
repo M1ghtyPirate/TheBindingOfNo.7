@@ -1,2 +1,2 @@
 # TheBindingOfNo.7
-Мод для The Binfing of Isaac добавляющий нового персонажа и предметы.
+Мод для The Binding of Isaac добавляющий нового персонажа и предметы.
